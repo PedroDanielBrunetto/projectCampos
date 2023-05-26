@@ -13,16 +13,13 @@ export default function inicio() {
                         <div className="flex flex-col">
                             <p className="text-lg text-center font-bold mb-2">Campos do Jordão</p>
                             <p className="text-left px-4">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                            Lorem Ipsum has been the standard dummy text ever since the 1500s, when an unknown
-                            printer took a galley of type and scrambled it to make a type specimen book.
-                            It has survived not only five centuries, but also the leap into electronic typesetting,
-                            remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                            sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
-                            like Aldus PageMaker including versions of Lorem Ipsum.
+                            Campos do Jordão é um município brasileiro localizado no interior do estado de São Paulo, mais precisamente na Serra da Mantiqueira; faz parte da recém-criada Região Metropolitana do Vale do Paraíba e Litoral Norte, sub-região 2 de Taubaté.A cidade fica à altitude de 1 628 metros, sendo portanto, o mais alto município brasileiro, considerando a altitude da sede. Sua população estimada, em 2014, era de 50 541 habitantes. Distante 173 km da cidade de São Paulo, 350 km do Rio de Janeiro e 500 km de Belo Horizonte. 
                             </p>
                         </div>
                 </div>
             </div>
+            <div className="h-96 bg-[#242424]">
+
+        </div>
         </main>
     )}

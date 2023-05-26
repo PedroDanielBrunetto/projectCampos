@@ -1,18 +1,18 @@
 *{
-    background-color: #121212;
     color: white;
+    margin: 0;
 }
 
 input[type=number]::-webkit-inner-spin-button,
-    input[type=number]::-webkit-outer-spin-button {
-        -webkit-appearance: none;
-        margin: 0;
-    }
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
 
 main {
-    text-align: center;
-    width: 100%;
-    margin: 0px 0;
+  background-color: #242424;
+  height: 100%;
+  padding-bottom: 0;
 }
 
 form {
@@ -30,12 +30,8 @@ form {
     margin-top: 0;
     font-size: 24px;
     margin-bottom: 50px;
-    background: linear-gradient(130.58deg, #4D1A51 0.46%, #0C0E32 100%);
   }
-  
-  label {
-    background: linear-gradient(130.58deg, #4D1A51 0.46%, #0C0E32 100%);
-  }
+
   
   input[type="number"] {
     border: 1px solid #fff;
